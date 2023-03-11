@@ -72,4 +72,7 @@ a {
 	#content {
 		text-align: left;
 	}
+	#banner-text {
+		margin-bottom: 30%;
+	}
 }
